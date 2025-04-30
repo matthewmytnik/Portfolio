@@ -6,8 +6,8 @@ Hello, my name is Matthew Mytnik, and I am studying Computer Networking at Illin
 
 # Work Experience
 Student Network Engineer
-•	Assisting network engineers with their daily work, troubleshooting, and preparation for maintenance projects
-•	Replacing and upgrading wireless access points and switch infrastructure
+- Assisting network engineers with their daily work, troubleshooting, and preparation for maintenance projects-
+- Replacing and upgrading wireless access points and switch infrastructure
 •	Performing network configuration updates, including VLAN changes
 •	Updating documentation following a switch upgrade to ensure accurate and detailed records
 
